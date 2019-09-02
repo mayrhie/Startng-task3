@@ -1,0 +1,68 @@
+body {
+    margin: 0px;
+    padding: 0px
+    color: black;
+} 
+  body {
+    font-family: 'Caveat', cursive;
+    font-size: 150%
+}   
+h1 {
+    color: red
+} 
+ h3 {
+     background-color: lightpink;
+ } 
+.intro-skills {
+background-color: #7279CC
+padding-top: 100px;
+padding-left: 100px;
+}
+   .skills-container {
+       margin-top: 100px;
+       padding-top: 100px;
+       padding-bottom: 100px;
+       padding-left: 150px;
+       background-color: #594157 
+   }
+    .skills .the-skill {
+        width: 100px;
+        height: 100px;
+        border: 1px solid #561513;
+        border-radius: 50%;
+        text-align: center;
+        margin-left: 100px;
+    }
+     
+     .h3 {
+         margin-top: 100px;
+         padding-top: 100px;
+         padding-bottom: 100px;
+         padding-left: 150px;
+         background-color: #04724D
+     }
+      .h3 {
+            width: 100px;
+            height: 100px;
+            background color: #561513;
+            border-radius: 50%;
+            text-align: center;
+            margin-left: 100px;
+          
+      } 
+      h4 {
+          color: black;
+          background-color: red;
+      }
+h4 {
+    text-decoration: box;
+    text-align: center;
+    color: green
+    font-family: 'Caveat', cursive;
+}
+h5 {
+    background-color: lightslategray;
+}
+h6 {
+    background-color: lightseagreen;
+}
