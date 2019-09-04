@@ -1,0 +1,25 @@
+<p>Thank you for visiting my page! Do you have questions or comments?<br> Kindly fill the contact form below!</p>
+    <form>
+                First name:<br>
+                <input type="text" name="firstname"><br>
+                Last name:<br>
+                <input type="text" name="lastname"><br> 
+                <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other <br>
+  Email address:<br>
+  <input type="text" name="email-address"> <br>
+  <action="/action_page.php"> <br>
+Title:<br>
+<input type= "text" name="title"> <br>
+  Your Message:
+  <textarea name="message" rows="20" cols="40">
+        
+
+</textarea> <br>
+<input type="submit" value="Submit"> <br>
+  <action="/action_page.php" target="_blank"> <br>
+  <action="/action_page.php" onsubmit="return validateForm()"  method="post"> 
+
+              </form>
+              
